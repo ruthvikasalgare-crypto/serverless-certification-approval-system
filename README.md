@@ -35,8 +35,5 @@ User Request → API Gateway → Lambda → Step Functions → SNS Notification 
 ## Skills Demonstrated
 AWS | Serverless | Lambda | Step Functions | Automation | Cloud Architecture
 
-## Demo Video
-(Add YouTube Link)
-
 ## Author
 Ruthvika Salgare
