@@ -35,16 +35,7 @@ User Request → API Gateway → Lambda → Step Functions → SNS Notification 
 ## Skills Demonstrated
 AWS | Serverless | Lambda | Step Functions | Automation | Cloud Architecture
 
-# Serverless Certification Approval System
 
-
-This guide walks you through manually deploying the resources in the AWS Console.
-
-> **Note:** For a deep dive into the code, architecture, and Step Functions logic, please see [EXPLANATION.md](EXPLANATION.md).
-
-## Prerequisites
-- An active AWS Account.
-- Access to the AWS Console.
 
 ## Step 1: Create DynamoDB Table
 
