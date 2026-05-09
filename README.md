@@ -37,27 +37,37 @@ AWS | Serverless | Lambda | Step Functions | Automation | Cloud Architecture
 
 # API Gateway
 
-![API Gateway](screenshots/api-gateway.jpg)
+![API Gateway](screenshots/api_gateway.jpg)
 
-# Lambda IAM Role
-
-![Lambda Role](screenshots/lambda-role.jpg)
+---
 
 # AWS Console
 
-![AWS Console](screenshots/aws-console.jpg)
+![AWS Console](screenshots/aws_console.jpg)
+
+---
+
+# Certification Lambda Function
+
+![Certification Lambda](screenshots/certificationlambda.jpg)
+
+---
 
 # Git Bash Deployment
 
-![Git Bash](screenshots/git-bash.jpg)
+![Git Bash](screenshots/git_bash.jpg)
 
-# Notify Manager Lambda Function
+---
 
-![Notify Manager](screenshots/notify-manager-function.jpg)
+# Notify Manager Function
 
-# Submit Request Lambda Function
+![Notify Manager Function](screenshots/notify_managerfunction.jpg)
 
-![Submit Request](screenshots/submit-request-function.jpg)
+---
+
+# Submit Request Function
+
+![Submit Request Function](screenshots/submit_requestfunction.jpg)
 
 
 ## Author
