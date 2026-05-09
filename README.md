@@ -35,6 +35,9 @@ User Request → API Gateway → Lambda → Step Functions → SNS Notification 
 ## Skills Demonstrated
 AWS | Serverless | Lambda | Step Functions | Automation | Cloud Architecture
 
+
+# AWS Project Screenshots 
+
 # API Gateway
 
 ![API Gateway](screenshots/api_gateway.jpg)
