@@ -35,5 +35,30 @@ User Request → API Gateway → Lambda → Step Functions → SNS Notification 
 ## Skills Demonstrated
 AWS | Serverless | Lambda | Step Functions | Automation | Cloud Architecture
 
+# API Gateway
+
+![API Gateway](screenshots/api-gateway.jpg)
+
+# Lambda IAM Role
+
+![Lambda Role](screenshots/lambda-role.jpg)
+
+# AWS Console
+
+![AWS Console](screenshots/aws-console.jpg)
+
+# Git Bash Deployment
+
+![Git Bash](screenshots/git-bash.jpg)
+
+# Notify Manager Lambda Function
+
+![Notify Manager](screenshots/notify-manager-function.jpg)
+
+# Submit Request Lambda Function
+
+![Submit Request](screenshots/submit-request-function.jpg)
+
+
 ## Author
 Ruthvika Salgare
